@@ -1,2 +1,2 @@
-# Laboratorio1-Identificación-nUsuario
+# Laboratorio1-Identificación-Usuario
 Acosta Nataly &amp; Mosquera Lucy
